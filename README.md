@@ -1,2 +1,2 @@
-# example
+# EMG
 Just example repository
